@@ -22,10 +22,10 @@ The **economic dispatch** problem involves distributing power generation among m
 
 | Lab No. | Optimisation Type | Description | Notebook File |
 |---------|------------------|-------------|---------------|
-| **Lab 2-1** | Linear Programming (LP) | Basic cost minimisation with linear functions | [Lab2.1.ipynb](https://github.com/xundullah/UTS-43026-Lab-Materials/blob/main/Lab-2/Lab2.1.ipynb) |
-| **Lab 2-2** | Quadratic Programming (QP) | More realistic cost modelling with quadratic terms | [Lab2.2.ipynb](https://github.com/xundullah/UTS-43026-Lab-Materials/blob/main/Lab-2/Lab2.2.ipynb) |
-| **Lab 2-3** | Nonlinear Programming (NLP) | Cost modelling using linear, quadratic, and cubic functions | [Lab2.3.ipynb](https://github.com/xundullah/UTS-43026-Lab-Materials/blob/main/Lab-2/Lab2.3.ipynb) |
-| **Lab 2-4** | Integer Programming (IP) | Power dispatch with integer-based allocations | [Lab2.4.ipynb](https://github.com/xundullah/UTS-43026-Lab-Materials/blob/main/Lab-2/Lab2.4.ipynb) |
+| **Lab 2-1** | Linear Programming (LP) | Basic cost minimisation with linear functions | [Lab2.1.ipynb](https://github.com/xundullah/UTS-43026-Lab-2-Materials/blob/main/Lab2.1.ipynb) |
+| **Lab 2-2** | Quadratic Programming (QP) | More realistic cost modelling with quadratic terms | [Lab2.2.ipynb](https://github.com/xundullah/UTS-43026-Lab-2-Materials/blob/main/Lab2.2.ipynb) |
+| **Lab 2-3** | Nonlinear Programming (NLP) | Cost modelling using linear, quadratic, and cubic functions | [Lab2.3.ipynb](https://github.com/xundullah/UTS-43026-Lab-2-Materials/blob/main/Lab2.3.ipynb) |
+| **Lab 2-4** | Integer Programming (IP) | Power dispatch with integer-based allocations | [Lab2.4.ipynb](https://github.com/xundullah/UTS-43026-Lab-2-Materials/blob/main/Lab2.4.ipynb) |
 
 ---
 
@@ -41,7 +41,7 @@ Go to **[Google Colab](https://colab.research.google.com/)**.
 - Select the **GitHub** tab.  
 - Paste this repository link:  
   ```plaintext
-  https://github.com/xundullah/UTS-43026-Lab-Materials/tree/main/Lab-2
+  https://github.com/xundullah/UTS-43026-Lab-2-Materials
   ```
 - Select the desired notebook (**Lab2.1.ipynb**, **Lab2.2.ipynb**, **Lab2.3.ipynb**, or **Lab2.4.ipynb**).  
 - Click **Open Notebook**.
@@ -106,8 +106,5 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ---
 
 ## **📬 Contact & Support**  
-If you have any questions or issues, feel free to open an issue on GitHub or reach out to:  
-📧 Email: [Your Contact Email]  
+If you have any questions or issues, feel free to open an issue on GitHub or reach out to:   
 🔗 GitHub: [xundullah](https://github.com/xundullah)  
-
-Happy coding! 🚀
