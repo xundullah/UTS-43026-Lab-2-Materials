@@ -1,4 +1,4 @@
-# **🚀 Economic Dispatch of Generators in a Power System**  
+# **Economic Dispatch of Generators in a Power System**  
 ## **43026 Energy Economics, Optimisation and Policy - Autumn 2025**  
 ### **Optimisation Approaches Using Python**  
 
@@ -6,7 +6,7 @@
 
 ---
 
-## **📌 Overview**  
+## **Overview**  
 
 The **economic dispatch** problem involves distributing power generation among multiple generators at the **lowest cost** while ensuring that the **total power demand is met**. This repository contains **four Jupyter Notebook labs** that explore different mathematical optimisation approaches to solve this problem.  
 
@@ -29,14 +29,14 @@ The **economic dispatch** problem involves distributing power generation among m
 
 ---
 
-## **🚀 Running the Labs in Google Colab**  
+## ** Running the Labs in Google Colab**  
 
 You can easily run these labs in **Google Colab** without requiring any local setup. Follow these steps:  
 
-### **📌 Step 1: Open Google Colab**  
+### ** Step 1: Open Google Colab**  
 Go to **[Google Colab](https://colab.research.google.com/)**.
 
-### **📌 Step 2: Open a Notebook from GitHub**  
+### ** Step 2: Open a Notebook from GitHub**  
 - Click on **File** → **Open Notebook**.  
 - Select the **GitHub** tab.  
 - Paste this repository link:  
@@ -46,7 +46,7 @@ Go to **[Google Colab](https://colab.research.google.com/)**.
 - Select the desired notebook (**Lab2.1.ipynb**, **Lab2.2.ipynb**, **Lab2.3.ipynb**, or **Lab2.4.ipynb**).  
 - Click **Open Notebook**.
 
-### **📌 Step 3: Run the Notebook**  
+### ** Step 3: Run the Notebook**  
 Once the notebook opens, click **Runtime** → **Run all** to execute all cells.
 
 ---
